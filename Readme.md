@@ -6,7 +6,7 @@ http://st.alexpts.ru/jquery.lazy-youtube/demo/index.html
 ### Example
 
 ```html
-<div data-width="640x480" data-height="640x480" data-youtube-id='NCaH-qqTWpk'>
+<div data-width="640" data-height="480" data-youtube-id='NCaH-qqTWpk'>
     <img src="https://i.ytimg.com/vi/NCaH-qqTWpk/sddefault.jpg"/>
 </div>
 ```
