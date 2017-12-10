@@ -1,5 +1,8 @@
 Script for lazy load video from youtube
 
+### Demo
+http://st.alexpts.ru/jquery.lazy-youtube/demo/index.html
+
 ### Example
 
 ```html
